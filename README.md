@@ -1,7 +1,7 @@
-# Multi-Modal Data Annotation Project
+# Multi-Modal Data Annotation
 
 ## Overview
-A simple, beginner-friendly multi-modal annotation tool that supports **text**, **image**, and **audio** labeling. Built with **Streamlit** for a minimal UI and easy interaction.
+A simple, multi-modal annotation tool that supports **text**, **image**, and **audio** labeling. Built with **Streamlit** for a minimal UI and easy interaction.
 
 ## Features
 - Text annotation (Positive / Negative / Neutral)
